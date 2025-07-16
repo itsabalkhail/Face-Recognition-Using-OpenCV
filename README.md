@@ -2,6 +2,8 @@
 
 A simple yet robust face recognition system built with OpenCV and Python that can identify known people from test images.
 
+![](https://github.com/itsabalkhail/Face-Recognition-Using-OpenCV/blob/main/Screenshot%202025-07-14%20212805.png?raw=true)
+
 ## Features
 
 - **Multi-format Support**: Supports PNG, JPG, JPEG, BMP, TIFF, WebP, and AVIF image formats
